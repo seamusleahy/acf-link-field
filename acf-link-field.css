@@ -1,0 +1,19 @@
+.acf_postbox .field .acf-link-field-primary-row {
+  margin-bottom: 10px;
+}
+.acf_postbox .field .acf-link-field-primary-row label,
+.acf_postbox .field .acf-link-field-secondary-row label {
+  display: inline;
+  padding-right: 5px;
+}
+
+.acf_postbox .field .acf-link-field-primary-row input[type="text"] {
+  width: 30%;
+  margin-right: 10px;
+}
+
+.acf_postbox .field .acf-link-field-secondary-row input[type="text"],
+.acf_postbox .field .acf-link-field-secondary-row select {
+  width: 20%;
+  margin-right: 10px;
+}
